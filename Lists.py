@@ -1,3 +1,7 @@
+# Everything works.
+# I like that you used the grid creator layout for the board.
+# Glad to see you found a solution for the sieve.  
+
 import random
 
 # LISTS (35PTS TOTAL)
